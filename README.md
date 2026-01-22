@@ -1,2 +1,7 @@
-# cpp-basics-
-Basic C and C++ programs and logic building 
+#include<stdio.h>
+
+int main(void
+{
+  printf("Hello GitHub");
+  return 0;
+}
